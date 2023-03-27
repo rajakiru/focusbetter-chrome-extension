@@ -1,0 +1,19 @@
+{
+  "name": "focusbetter",
+  "version": "0.1.0",
+  "description": "Plays videos to increase your attention span",
+  "permissions": ["storage", "activeTab"],
+  "background": {
+    "service_worker": "popup.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "default_title": "focusbetter",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}
