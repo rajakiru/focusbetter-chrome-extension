@@ -1,6 +1,7 @@
 // Define an array of video URLs
 const videos = [
-    "https://www.youtube.com/watch?v=ChBg4aowzX8&ab_channel=CoolingHeart",
+    "https://www.youtube.com/embed/7ghSziUQnhs",
+    "https://www.youtube.com/embed/BkWT66jE8Hs"
     // Add more videos here...
   ];
   
