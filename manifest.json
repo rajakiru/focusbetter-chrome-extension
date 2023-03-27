@@ -2,7 +2,7 @@
   "name": "focusbetter",
   "version": "0.1.0",
   "description": "Plays videos to increase your attention span",
-  "permissions": ["storage", "activeTab"],
+  "permissions": ["storage", "activeTab", "https://*.youtube.com/*", "http://*/*", "https://*/*"]],
   "background": {
     "service_worker": "popup.js"
   },
